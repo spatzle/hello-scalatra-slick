@@ -1,6 +1,6 @@
 # hello-scalatra-slick #
 
-The purpose of this project is to learn the ropes about [Scala](http://www.scala-lang.org), [Scalatra](http://www.scalatra.org) & [Slick](http://slick.typesafe.com).  Slick is a really incredible orm like library for scala, but sort of hard to learn because it is just created to replace the library ScalaQuery, and it took me a little while to find all the resources to help me learn it.
+The purpose of this project is to learn about [Scala](http://www.scala-lang.org), [Scalatra](http://www.scalatra.org) & [Slick](http://slick.typesafe.com).  Slick is an incredible orm-like library for scala, but at the moment, hard to learn due to few documentation, because it has just been created to replace the library ScalaQuery.
 
 I had based this project on the info found on these various websites
 
